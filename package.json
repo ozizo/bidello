@@ -1,0 +1,23 @@
+{
+  "name": "bidello",
+  "version": "1.0.2",
+  "description": "Don't leave your Class alone",
+  "main": "index.js",
+  "source": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luruke/bidello.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luruke/bidello/issues"
+  },
+  "homepage": "https://github.com/luruke/bidello#readme",
+  
+  "browserslist": ["last 2 Chrome versions"],
+  "engines": { "node" : ">= 8.9.3" }
+}
